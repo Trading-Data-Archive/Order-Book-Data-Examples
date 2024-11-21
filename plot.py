@@ -1,4 +1,4 @@
-from orm import *
+from examples.orm import *
 import peewee as pw
 import datetime
 import matplotlib.pyplot as plt
